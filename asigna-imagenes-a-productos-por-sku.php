@@ -7,6 +7,8 @@
  * Author: Gerardo Murillo
  * Author URI: https://netcommerce.mx
  * License: GPL2
+ * Requires at least: 5.0
+ * Tested up to: 6.7
  */
 
 // Evita el acceso directo a este archivo
