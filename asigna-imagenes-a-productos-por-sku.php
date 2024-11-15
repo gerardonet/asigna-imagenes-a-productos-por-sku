@@ -3,8 +3,8 @@
  * Plugin Name: Asignar Imágenes por SKU a Productos
  * Plugin URI: https://netcommerce.mx
  * Description: Asigna automáticamente las imágenes de la biblioteca de medios a los productos de WooCommerce según el SKU.
- * Version: 1.0.4
- * Author: Netcommerce
+ * Version: 1.1
+ * Author: Gerardo Murillo
  * Author URI: https://netcommerce.mx
  * License: GPL2
  */
