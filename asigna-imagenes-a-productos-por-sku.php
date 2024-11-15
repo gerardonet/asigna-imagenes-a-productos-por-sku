@@ -67,7 +67,7 @@ add_action('woocommerce_product_import_inserted_product_object', 'assign_images_
 require 'plugin-update-checker.php'; // Asegúrate de que la ruta sea correcta
 
 // Crear un objeto para verificar y gestionar las actualizaciones automáticas
-$my_update_checker = Puc_v4_Factory::buildUpdateChecker(
+$my_update_checker = Puc_v5_Factory::buildUpdateChecker(
     'https://github.com/gerardonet/asigna-imagenes-a-productos-por-sku',  // URL de tu repositorio en GitHub
     __FILE__,  // Ruta al archivo principal del plugin
     'asigna-imagenes-a-productos-por-sku'  // Slug único para tu plugin (puede ser el nombre del plugin en minúsculas)
