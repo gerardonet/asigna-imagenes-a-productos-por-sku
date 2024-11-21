@@ -3,13 +3,16 @@ Contributors: Gerardo Murillo
 Tags: woo-commerce, SKU, images, product
 Requires at least: 5.0
 Tested up to: 6.7
-Stable tag: 1.3
+Stable tag: 1.3.1
 License: GPL2
 
 == Description ==
 Asigna automáticamente las imágenes de la biblioteca de medios a los productos de WooCommerce según el SKU.
 
 == Changelog ==
+= 1.3.1 =
+* Se corrigieron algunos errores menores.
+
 = 1.3 =
 * Se corrigió un error en el que las imágenes se asignaban sin ordenarlas por título, lo cual afectaba en la selección de la imagen destacada del producto.
 
